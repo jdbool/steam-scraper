@@ -1,0 +1,23 @@
+{
+  "name": "steam-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdbool/steam-scraper.git"
+  },
+  "author": "jdbool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdbool/steam-scraper/issues"
+  },
+  "homepage": "https://github.com/jdbool/steam-scraper#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}
